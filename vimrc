@@ -19,13 +19,16 @@ set history=500
 set cc=80
 highlight ColorColumn ctermbg=0 guibg=lightgrey
 syntax on
-set nu rnu
+" set nu rnu
+set nu
+set mouse=a
 set smartindent
 "tab size to 4
 set tabstop=4
 set shiftwidth=4
 set softtabstop=0 "noexpandtab set to not make spaces out of tabs
 set expandtab
+set cursorline
 
 set wildmenu		"Tab autocomplete in command modea
 

@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/sorin/.config/nvim/general'
+let g:netrw_dirhist_2='/home/sorin/.config/nvim'
+let g:netrw_dirhist_1='/home/sorin/.config/nvim/plugged'
+let g:netrw_dirhist_0='/home/sorin/.config/nvim/plugged/nvim-lspconfig'
+let g:netrw_dirhist_9='/home/sorin/.config/nvim/plugged/nvim-lspconfig/lua'
+let g:netrw_dirhist_8='/home/sorin/.config/nvim/plugged/nvim-lspconfig/lua/nvim_lsp'
+let g:netrw_dirhist_7='/home/sorin/.config/nvim/plugged/nvim-lspconfig/lua'
+let g:netrw_dirhist_6='/home/sorin/.config/nvim/plugged/nvim-lspconfig'
+let g:netrw_dirhist_5='/home/sorin/.config/nvim/plugged/nvim-lspconfig/lua'
+let g:netrw_dirhist_4='/home/sorin/.config/nvim/plugged/nvim-lspconfig/lua/nvim_lsp'

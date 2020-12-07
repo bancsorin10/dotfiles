@@ -4,6 +4,8 @@
 alias ls='ls --color=auto'
 alias ll="ls -lA --group-directories-first"
 alias fuzd="source fuzd"
+alias mdprev="markdown-reader"
+alias vf="vifm"
 
 #arch logo
 #neofetch
@@ -42,3 +44,6 @@ alias dosbox="dosbox -conf ~/.config/dosbox/dosbox-0.74-3.conf"
 source ~/.syntax-zsh/zsh-syntax-highlighting.zsh
 
 fortune
+
+alias nv="/home/sorin/clones/nightly-nvim/nvim-appimage/squashfs-root/usr/bin/nvim"
+alias matlab='/usr/local/MATLAB/R2020b/bin/matlab'
