@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/sorin/Books/rust/rust_projects/guessing_game/src'
+let g:netrw_dirhist_4='/home/sorin/HDD/faculta/faculta/anu3/practica'
+let g:netrw_dirhist_3='/home/sorin'
+let g:netrw_dirhist_2='/home/sorin/.cmake/packages/LibObs'
+let g:netrw_dirhist_1='/home/sorin/.cmake/packages'
+let g:netrw_dirhist_0='/home/sorin/.cmake'
+let g:netrw_dirhist_9='/home/sorin'
+let g:netrw_dirhist_8='/etc/xdg/autostart'
+let g:netrw_dirhist_7='/home/sorin/.config/Xsession'
+let g:netrw_dirhist_6='/home/sorin/.config'
