@@ -23,7 +23,7 @@ noremap <Left> <Nop>
 " inoremap for insert mode disable of arrow keys
 " disabling arrows in insert also disables backspace in the vim command :D
 
-nnoremap <C-p> <cmd>lua require'telescope.builtin'.find_files{}<CR>
+" nnoremap <C-p> <cmd>lua require'telescope.builtin'.find_files{}<CR>
 " consider mapping it for the git files instead of locals
 
 " copy the hole file

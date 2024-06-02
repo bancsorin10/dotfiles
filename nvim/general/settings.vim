@@ -7,7 +7,7 @@ set hlsearch "highlight persists after search
 set ignorecase smartcase
 set history=500
 set cc=80
-highlight ColorColumn ctermbg=0 guibg=lightgrey
+" highlight ColorColumn ctermbg=0 guibg=lightgrey
 syntax on
 " set nu rnu
 set nu
@@ -33,10 +33,10 @@ set undoreload=10000
 " set background=dark
 
 
-lua require'nvim_lsp'.clangd.setup{ }
-lua require('colorbuddy').colorscheme('gruvbuddy')
+" lua require'nvim_lsp'.clangd.setup{ }
+" lua require('colorbuddy').colorscheme('gruvbuddy')
 " lua require'nvim_lsp'.clangd.setup{on_attach=require'completion'.on_attach}
 
 " ------------- LSP
-nnoremap <silent> gd    <cmd>lua vim.lsp.buf.declaration()<CR>
-nnoremap <silent> gD    <cmd>lua vim.lsp.buf.implementation()<CR>
+" nnoremap <silent> gd    <cmd>lua vim.lsp.buf.declaration()<CR>
+" nnoremap <silent> gD    <cmd>lua vim.lsp.buf.implementation()<CR>
